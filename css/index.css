@@ -1,0 +1,12 @@
+.profil_arnaud{
+    width: 100%;
+    max-width: 398px;
+    height: 100%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: solid 5px #FED136;
+}
+.black{
+    color: black;
+}

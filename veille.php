@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <!--
     The MIT License (MIT)
 
@@ -24,33 +23,24 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Veille technologique">
     <meta name="author" content="Arnaud Champeil">
-
     <link href="css/index.css" rel="stylesheet">
-
     <title>AC</title>
-
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Custom fonts for this template -->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
     <!-- Custom styles for this template -->
     <link href="css/agency.min.css" rel="stylesheet">
-
 </head>
-
 <body id="page-top">
 
 <?php require "inc/header.php"; ?>
@@ -65,20 +55,16 @@ THE SOFTWARE.
         </div>
     </div>
 </header>
-
-
 <!-- Veille Technologique 1 -->
 <section id="veille">
     <div class="container">
         <div class="row">
-
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading text-uppercase">Objectif de l’étude</h2>
                 <h3 class="section-subheading text-muted">
                     Cette étude est réalisée à la demande de l’école ESICAD Montpellier dans le cadre d’un projet de fin d’année.
                 </h3>
             </div>
-
             <div class="col-lg-12 text-center">
                 <h4 class="section-heading text-uppercase">Qu’est-ce qu’une veille technologique ?</h4>
                 <h3 class="section-subheading text-muted">
@@ -86,13 +72,10 @@ THE SOFTWARE.
                     Des recherches sont effectuées sur son évolution technologique et son positionnement sur le marché.
                 </h3>
             </div>
-
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="margin-left :auto; margin-right :auto; color: black;" href="#veille2">Qu'est-ce que la 5G ?</a>
-
         </div>
     </div>
 </section>
-
 <!-- Veille Technologique 2 -->
 <section class="bg-light" id="veille2">
     <div class="container">
@@ -103,8 +86,6 @@ THE SOFTWARE.
                     La 5G est la 5ème génération de technologie réseau mobile conçue pour répondre à la très grande croissance des données et à la connectivité de la société moderne.
                 </h3>
             </div>
-
-
             <div class="col-lg-12 text-center">
                 <h4 class="section-heading text-uppercase">Changement de l’ancienne à la nouvelle génération</h4>
                 <h3 class="section-subheading text-muted">
@@ -113,20 +94,17 @@ THE SOFTWARE.
                 </h3>
                 <img src="img/veille/fast-dl.png">
             </div>
-
             <h3 class="section-subheading text-muted">
-                <br>On estime :
-
-            <ul>
-                <li>Des débits jusqu’à 10 fois plus rapides que la 4G</li>
-                <li>Une connectivité plus optimale pouvant accueillir plus de monde</li>
-                <li>Une connexion plus adaptée à des milliards d’objets connectés</li>
-                <li>Une connexion plus écologique en réduisant les couts de la consommation énergétique</li>
-                <li>Une réactivité quasi en temps réel pour les connexions en ligne et le pilotage des voitures autonomes à leur commercialisation au grand publique.</li>
-            </ul>
-
+                <br>
+                On estime :
+                <ul>
+                    <li>Des débits jusqu’à 10 fois plus rapides que la 4G</li>
+                    <li>Une connectivité plus optimale pouvant accueillir plus de monde</li>
+                    <li>Une connexion plus adaptée à des milliards d’objets connectés</li>
+                    <li>Une connexion plus écologique en réduisant les couts de la consommation énergétique</li>
+                    <li>Une réactivité quasi en temps réel pour les connexions en ligne et le pilotage des voitures autonomes à leur commercialisation au grand publique.</li>
+                </ul>
             </h3>
-
             <div class="col-lg-12 text-center">
                 <h4 class="section-heading text-uppercase">Les usages à venir de la 5G</h4>
                 <h3 class="section-subheading text-muted">
@@ -135,18 +113,15 @@ THE SOFTWARE.
                 </h3>
                 <img src="img/veille/usage-5g.png">
             </div>
-
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="margin-left :auto; margin-right :auto; color: black;" href="#veille3">Point de vue santé ?</a>
-
         </div>
-
+    </div>
 </section>
 
 <!-- Veille Technologique 3 -->
 <section id="veille3">
     <div class="container">
         <div class="row">
-
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading text-uppercase">Ondes et santé</h2>
                 <h3 class="section-subheading text-muted">
@@ -156,7 +131,6 @@ THE SOFTWARE.
                 </h3>
                 <img src="img/veille/4g-5g.png">
             </div>
-
             <div class="col-lg-12 text-center">
                 <h4 class="section-heading text-uppercase">Risque pour la santé</h4>
                 <h3 class="section-subheading text-muted">
@@ -171,13 +145,14 @@ THE SOFTWARE.
                 <h3 class="section-subheading text-muted">
                     Les limites d’exposition de l’OMS ont été adoptées dans la majorité des pays et s’appliquent à l’ensemble des services des ondes radio. Le respect de ces limites protège la population.<br><br>
                     Les limites d’exposition pour la 5G sont de 39 Volts par mètre (V/m) à 700 MHz équivalentes à celles de la 4G et de 61 V/m à 3 500 MHz équivalentes à celles du Wi-Fi, de la 3G et de la 4G.<br><br>
+                    <p class="text-right">Source : <a href="https://www.orange.fr/">Orange.fr</a><p/>
+                </h3>
 
+                <h3 class="section-subheading text-muted">
                     Voici un article de « Numerama » qui nous en dis plus sur les mesures prise par le gouvernement ainsi que sur les effets à l’exposition de la 5G.<br><br>
                     <a href="https://www.numerama.com/politique/409118-la-5g-des-effets-sur-la-sante-le-gouvernement-rassure.html" target="_blank" >Cliquer ici.</a>
-
                 </h3>
             </div>
-
         </div>
     </div>
 </section>
@@ -233,6 +208,7 @@ THE SOFTWARE.
             <!-- end feedwind code -->
 
         </div>
+    </div>
 
 </section>
 

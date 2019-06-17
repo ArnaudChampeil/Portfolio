@@ -82,30 +82,20 @@ THE SOFTWARE.
             </div>
 
             <div class="col-md-4">
-                <!--
-                <span class="fa-stack fa-4x">
-                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
-                </span> -->
                 <h4 class="service-heading">Qui suis-je ?</h4>
                 <p class="text-muted">
                     Je suis un cursus de formation spécialisé dans les Services Informatiques aux Organisations en BTS dans l’école supérieur ESICAD Montpellier. C'est un BTS très intéressant et je compte faire une poursuite d'étude derrière pour le compléter et exploiter le potentiel de cette formation au maximum.
                 </p>
             </div>
 
-            <div class="col-md-4"><!--
-                <span class="fa-stack fa-4x">
-                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
-                </span> -->
+            <div class="col-md-4">
                 <h4 class="service-heading">Mes infos</h4>
                 <p class="text-muted">
                     Arnaud<br>
                     Champeil<br>
                     23 ans<br>
                     champeil.arnaud@gmail.com<br><br>
-
-                    <a href="inc/CV.pdf" target="_blank">Télécharger mon CV en cliquant ici.</a>
+                    <a href="inc/CV_DevBackEnd_public_ArnaudChampeil.pdf" target="_blank">Télécharger mon CV en cliquant ici.</a>
                 </p>
             </div>
 
@@ -134,7 +124,7 @@ THE SOFTWARE.
                 </a>
                 <div class="portfolio-caption">
                     <h4>Hôpital d'Assas</h4>
-                    <p class="text-muted">Administrateur de site</p>
+                    <p class="text-muted">Développement Web</p>
                 </div>
             </div>
 
@@ -149,7 +139,7 @@ THE SOFTWARE.
                 </a>
                 <div class="portfolio-caption">
                     <h4>Inotitia</h4>
-                    <p class="text-muted">Administrateur de site</p>
+                    <p class="text-muted">Développement Web</p>
                 </div>
             </div>
 
@@ -164,7 +154,7 @@ THE SOFTWARE.
                 </a>
                 <div class="portfolio-caption">
                     <h4>PPE</h4>
-                    <p class="text-muted">Administrateur de site</p>
+                    <p class="text-muted">Développement Web</p>
                 </div>
             </div>
 
@@ -179,7 +169,7 @@ THE SOFTWARE.
                 </a>
                 <div class="portfolio-caption">
                     <h4>Réseau social</h4>
-                    <p class="text-muted">Administrateur de site</p>
+                    <p class="text-muted">Développement Web</p>
                 </div>
             </div>
 
@@ -194,7 +184,7 @@ THE SOFTWARE.
                 </a>
                 <div class="portfolio-caption">
                     <h4>Portfolio 2</h4>
-                    <p class="text-muted">Administrateur de site</p>
+                    <p class="text-muted">Développement Web</p>
                 </div>
             </div>
 
@@ -209,7 +199,7 @@ THE SOFTWARE.
                 </a>
                 <div class="portfolio-caption">
                     <h4>Portfolio 1</h4>
-                    <p class="text-muted">Administrateur de site</p>
+                    <p class="text-muted">Développement Web</p>
                 </div>
             </div>
         </div>
@@ -300,13 +290,16 @@ THE SOFTWARE.
 <section class="py-5">
     <div class="container">
         <div class="row">
-
             <div class="col-md-3 col-sm-6">
                 <a href="https://www.esicad.com/" target="_blank">
                     <img class="img-fluid d-block mx-auto" src="img/logos/esicad.png" alt="">
                 </a>
             </div>
-
+            <div class="col-md-3 col-sm-6">
+                <a href="https://www.devensys.com/" target="_blank">
+                    <img class="img-fluid d-block mx-auto" src="img/logos/devensys.png" alt="">
+                </a>
+            </div>
         </div>
     </div>
 </section>
@@ -364,7 +357,7 @@ THE SOFTWARE.
     <div class="container">
         <div class="row">
             <div class="col-md-5">
-                <span class="copyright">Portfolio réalisé grace au template MIT. Tous droits réservés</span>
+                <span class="copyright">Portfolio réalisé à l'aide du template MIT. Tous droits réservés.</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
@@ -426,7 +419,7 @@ THE SOFTWARE.
                             <a href="https://champeilarnaud.wixsite.com/sio1" target="_blank"><img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.bmp" alt=""></a>
                             <p>
                                 Au cours de mes 2 ans de BTS SIO, j'ai été amené à devoir créer un portfolio pour faire la présentation de mon profil, d’une veille technologique ainsi que pour regrouper mes différents projets. J’ai d’abord conçu un premier site web à l’aide d’un CMS sur Wix.<br><br>
-                                Qu’est-ce qu’un CMS ?<br>
+                                <h4>Qu’est-ce qu’un CMS ?</h4>
                                 Un système de gestion de contenu (SGC) ou Content Management System (CMS) en anglais regroupe une catégorie de logiciels qui permettent de concevoir, gérer et mettre à jour des sites Web ou des applications mobiles de manière dynamique.<br><br>
                                 Pendant la création de mon site, j’ai voulu en créer un de mes propres mains pour pouvoir comprendre comment tout cela fonctionnait réellement. Je me suis donc lancé dans l’apprentissage et la conception d’un site en HTML CSS.<br><br>
 
@@ -587,7 +580,7 @@ THE SOFTWARE.
                             <p class="item-intro text-muted">Création de site web</p>
                             <a href="http://inotitia.com/" target="_blank" ><img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt=""></a>
                             <p>
-                                Pour la création de l'entreprise Inotitia, un site web a été réalisé à l'aide du framework bootsrap ainsi qu'un template.
+                                Pour la création de l'entreprise Inotitia, un site web a été réalisé à l'aide du framework bootstrap ainsi qu'un template.
                                 <br><br>
 
 
@@ -626,9 +619,22 @@ THE SOFTWARE.
                             <!-- Project Details Go Here -->
                             <h2 class="text-uppercase">Hôpital d'Assas (PPE2)</h2>
                             <p class="item-intro text-muted">Création de site web</p>
-                            <a href="http://inotitia.com/" target="_blank" ><img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt=""></a>
+                            <a href="http://chu-assas.arnaudc.fr/" target="_blank" ><img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt=""></a>
                             <p>
-                                Pour la création de l'entreprise Inotitia, un site web a été réalisé à l'aide du framework bootsrap ainsi qu'un template.
+                                Réalisation d'un projet à présenter pour l'examen E4 du BTS Services Informatiques aux organisations.<br>
+                                La rédaction d'un cahier des charges pour le client léger ainsi que pour un client lourd.<br>
+                                Définition juridique : Un "Cahier des charges" est un document qui est une pièce annexe au contrat principal,
+                                dans lequel sont énumérées les obligations se rapportant aux conditions d'exécution du contrat principal :
+                                il en est ainsi du cahier des charges d'un lotissement ou du cahier des charges régissant les conditions d'une
+                                vente publique et du cahier des charges décrivant les obligations que doit supporter l'adjudicataire d'un marché public.<br>
+
+                                <h4>CLIENT LEGER</h4>
+                                C’est une application installée sur un serveur Web et les utilisateurs n’ont besoin que d’un navigateur internet pour pouvoir accéder à l’ensemble des services.
+                                Le traitement métier des données est donc centralisé. Il se fait au niveau du serveur web qui prendra en charge la communication avec la base de données pour répondre aux besoins de tous les utilisateurs.
+
+                                <h4>CLIENT LOURD</h4>
+                                C’est un logiciel installé sur les ordinateurs des utilisateurs. Le traitement métier des données se fait au niveau de la machine de l’utilisateur qui prend en charge la communication avec la base de données.
+
                                 <br><br>
 
 
